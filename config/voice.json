@@ -1,0 +1,36 @@
+{
+  "tone_weights": {
+    "bull": 0.25,
+    "bear": 0.25,
+    "cope": 0.20,
+    "euphoria": 0.15,
+    "doom": 0.15
+  },
+  "lexicon_core": [
+    "gm", "gn", "ser", "anon", "wagmi", "ngmi", "few",
+    "ratio", "cope", "down bad", "im in", "buying", "wen",
+    "jpow", "normie", "ape", "rotate", "rugged", "based",
+    "mid", "cooked", "we're so back", "it's so over"
+  ],
+  "rules": {
+    "case": "lowercase",
+    "max_words": 15,
+    "min_words": 4,
+    "hashtags": false,
+    "emojis": false,
+    "max_cashtags": 1,
+    "explain_joke": false
+  },
+  "calibration_examples": {
+    "btc_dump": "down bad ser. buying anyway",
+    "gas_spike": "gas higher than my hopes for q4",
+    "memecoin_pump": "few will understand",
+    "exchange_hack": "not ur keys not ur problem. sponsored by hackers",
+    "etf_inflow": "suits finally got the memo",
+    "rugpull": "another one bites the rug",
+    "fed_news": "jpow watching us bleed live on cnbc",
+    "alt_season_cope": "wen alt season ser. wen.",
+    "all_time_high": "we're so back",
+    "all_time_low": "it's so over"
+  }
+}

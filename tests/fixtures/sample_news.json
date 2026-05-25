@@ -1,0 +1,142 @@
+[
+  {
+    "id": "news_001",
+    "title": "Ethereum overtakes Solana in DEX volume after merge upgrade",
+    "url": "https://example.com/eth-vs-sol",
+    "source": "CoinDesk",
+    "published_at": "2026-05-24T10:00:00+00:00"
+  },
+  {
+    "id": "news_002",
+    "title": "Bitcoin investors rotate from spot ETFs into mining stocks",
+    "url": "https://example.com/btc-rotation",
+    "source": "Bloomberg Crypto",
+    "published_at": "2026-05-24T11:15:00+00:00"
+  },
+  {
+    "id": "news_003",
+    "title": "Traders face dilemma: lock in profits or hold for new highs",
+    "url": "https://example.com/dilemma",
+    "source": "The Block",
+    "published_at": "2026-05-24T12:30:00+00:00"
+  },
+  {
+    "id": "news_004",
+    "title": "Choose between staking yield and DeFi farming with new vaults",
+    "url": "https://example.com/staking-or-defi",
+    "source": "Decrypt",
+    "published_at": "2026-05-24T13:00:00+00:00"
+  },
+  {
+    "id": "news_005",
+    "title": "Whales abandon meme tokens for Solana ecosystem coins",
+    "url": "https://example.com/abandon-memes",
+    "source": "CoinTelegraph",
+    "published_at": "2026-05-24T13:45:00+00:00"
+  },
+  {
+    "id": "news_006",
+    "title": "Retail traders dump SHIB and chase new AI token launches",
+    "url": "https://example.com/dump-shib",
+    "source": "CryptoSlate",
+    "published_at": "2026-05-24T14:30:00+00:00"
+  },
+  {
+    "id": "news_007",
+    "title": "Analyst escalating predictions: BTC 100k then 200k then 500k",
+    "url": "https://example.com/escalating",
+    "source": "Cointelegraph",
+    "published_at": "2026-05-24T15:00:00+00:00"
+  },
+  {
+    "id": "news_008",
+    "title": "From altcoins to memecoins to AI tokens: investor takes evolve",
+    "url": "https://example.com/evolving-takes",
+    "source": "The Defiant",
+    "published_at": "2026-05-24T15:45:00+00:00"
+  },
+  {
+    "id": "news_009",
+    "title": "VC says stablecoins are the only crypto that matters, change my mind",
+    "url": "https://example.com/hot-take-stable",
+    "source": "Bankless",
+    "published_at": "2026-05-24T16:00:00+00:00"
+  },
+  {
+    "id": "news_010",
+    "title": "Hot take: NFTs are dead and they're not coming back",
+    "url": "https://example.com/hot-take-nft",
+    "source": "Milk Road",
+    "published_at": "2026-05-24T16:30:00+00:00"
+  },
+  {
+    "id": "news_011",
+    "title": "Major DeFi protocol suffers hack, $200M drained from vault",
+    "url": "https://example.com/defi-hack",
+    "source": "Rekt News",
+    "published_at": "2026-05-24T17:00:00+00:00"
+  },
+  {
+    "id": "news_012",
+    "title": "New L2 chain rugs investors after launch, devs disappear",
+    "url": "https://example.com/l2-rug",
+    "source": "Web3 Is Going Great",
+    "published_at": "2026-05-24T17:30:00+00:00"
+  },
+  {
+    "id": "news_013",
+    "title": "Crypto market flash crash wipes out billions in 20 minutes",
+    "url": "https://example.com/flash-crash",
+    "source": "CoinDesk",
+    "published_at": "2026-05-24T18:00:00+00:00"
+  },
+  {
+    "id": "news_014",
+    "title": "Major exchange collapses overnight, customer funds frozen",
+    "url": "https://example.com/exchange-collapse",
+    "source": "Reuters",
+    "published_at": "2026-05-24T18:30:00+00:00"
+  },
+  {
+    "id": "news_015",
+    "title": "Chaos at conference as protocol founder disappears mid keynote",
+    "url": "https://example.com/chaos-event",
+    "source": "Crypto Briefing",
+    "published_at": "2026-05-24T19:00:00+00:00"
+  },
+  {
+    "id": "news_016",
+    "title": "Veteran trader warns: one does not simply ape into pre-launch tokens",
+    "url": "https://example.com/sage-warning",
+    "source": "Bitcoin Magazine",
+    "published_at": "2026-05-24T19:30:00+00:00"
+  },
+  {
+    "id": "news_017",
+    "title": "Ethereum gas fees spike to $80 per swap, traders complain",
+    "url": "https://example.com/gas-fees",
+    "source": "DeFi Pulse",
+    "published_at": "2026-05-24T20:00:00+00:00"
+  },
+  {
+    "id": "news_018",
+    "title": "FOMO traders chase pump after token jumps 400 percent overnight",
+    "url": "https://example.com/fomo-chase",
+    "source": "CryptoSlate",
+    "published_at": "2026-05-24T20:30:00+00:00"
+  },
+  {
+    "id": "news_019",
+    "title": "Funding rates too damn high as longs pile into leverage",
+    "url": "https://example.com/funding-rates",
+    "source": "CoinGlass",
+    "published_at": "2026-05-24T21:00:00+00:00"
+  },
+  {
+    "id": "news_020",
+    "title": "Audit reveals hidden backdoor in popular wallet, scam warning issued",
+    "url": "https://example.com/wallet-backdoor",
+    "source": "SlowMist",
+    "published_at": "2026-05-24T21:30:00+00:00"
+  }
+]

@@ -1,0 +1,11 @@
+aiogram>=3,<4
+tweepy>=4,<5
+openai>=1.10
+httpx
+feedparser
+apscheduler>=3,<4
+sqlalchemy>=2
+pydantic-settings
+loguru
+pytest
+pytest-asyncio

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "181913649",
+    "name": "drake",
+    "boxes": 2,
+    "structure": "no_this | yes_this",
+    "best_for": ["comparison", "rotation", "preference"]
+  },
+  {
+    "id": "87743020",
+    "name": "two_buttons",
+    "boxes": 2,
+    "structure": "button_left | button_right",
+    "best_for": ["dilemma", "trader_choice"]
+  },
+  {
+    "id": "112126789",
+    "name": "distracted_boyfriend",
+    "boxes": 3,
+    "structure": "girlfriend (old thing) | boyfriend label | other girl (new thing)",
+    "best_for": ["rotation", "abandoning_one_token_for_another"]
+  },
+  {
+    "id": "93895088",
+    "name": "expanding_brain",
+    "boxes": 4,
+    "structure": "tier1 | tier2 | tier3 | tier4 (galaxy)",
+    "best_for": ["escalating_takes", "galaxy_brain"]
+  },
+  {
+    "id": "129242436",
+    "name": "change_my_mind",
+    "boxes": 1,
+    "structure": "sign_text",
+    "best_for": ["hot_take", "opinion"]
+  },
+  {
+    "id": "55311130",
+    "name": "this_is_fine",
+    "boxes": 2,
+    "structure": "top_text | bottom_text",
+    "best_for": ["disaster", "hack", "rug", "crash"]
+  },
+  {
+    "id": "97984",
+    "name": "disaster_girl",
+    "boxes": 2,
+    "structure": "top | bottom",
+    "best_for": ["chaos_event", "exchange_collapse"]
+  },
+  {
+    "id": "61579",
+    "name": "one_does_not_simply",
+    "boxes": 2,
+    "structure": "top | bottom",
+    "best_for": ["sage_advice", "warnings"]
+  },
+  {
+    "id": "61539",
+    "name": "first_world_problems",
+    "boxes": 2,
+    "structure": "top | bottom",
+    "best_for": ["minor_inconvenience", "gas_fees"]
+  },
+  {
+    "id": "131087935",
+    "name": "running_away_balloon",
+    "boxes": 5,
+    "structure": "balloon1 | person1 | balloon2 | person2 | person3",
+    "best_for": ["chase", "fomo"]
+  },
+  {
+    "id": "61580",
+    "name": "too_damn_high",
+    "boxes": 2,
+    "structure": "top | bottom",
+    "best_for": ["gas_fees", "prices", "leverage"]
+  },
+  {
+    "id": "91545132",
+    "name": "trojan_horse",
+    "boxes": 2,
+    "structure": "top | bottom",
+    "best_for": ["hidden_threat", "scam_warning"]
+  }
+]
